@@ -1,0 +1,8 @@
+res://scenes/main/main.tscn
+res://resources/tileset.tres
+res://scenes/manager/enemy_manager.gd
+res://scenes/ability/sword_ability_controller/sword_ability_controller.tscn
+res://scenes/ability/sword_ability_controller/sword_ability_controller.gd
+res://scenes/component/vial_drop_component.gd
+res://scenes/component/vial_drop_component.tscn
+res://scenes/game_object/player/player.tscn

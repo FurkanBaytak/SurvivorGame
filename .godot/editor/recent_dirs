@@ -1,0 +1,11 @@
+res://scenes
+res://scenes/UI
+res://scenes/manager
+res://resources/upgrades
+res://scenes/component
+res://scenes/autoload
+res://scenes/game_object/experience_vail
+res://scenes/ability/sword_ability_controller
+res://scenes/ability/sword_ability
+res://resources
+res://scenes/main
